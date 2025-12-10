@@ -49,7 +49,7 @@ I enjoy making small projects to improve my logic, problem-solving, and workflow
 <p>
   
   <a href="https://github.com/sauzanfaza">  <img src="https://skillicons.dev/icons?i=github" />
-</a> ·
+</a> 
   <a href="https://instagram.com/sauzanfaza">  <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 </p>
