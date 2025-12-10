@@ -57,5 +57,5 @@ I enjoy making small projects to improve my logic, problem-solving, and workflow
 
 ---
 
-###✨ Fun Fact
+### ✨ Fun Fact
 I write code with iced coffee on the side, and somehow it makes everything debug-able ☕
