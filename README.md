@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sauzan Faza 👋</h1>
+<h1 align="center">Heyyy, I'm Sauzan Faza</h1>
 <p align="center">
   Information Systems Student · Web Development Enthusiast
 </p>
@@ -9,7 +9,7 @@
 
 ---
 
-### 👩‍💻 About Me
+👩‍💻 About Me
 I'm an Information Systems student who loves building clean and interactive user interfaces.  
 Currently learning and working on Front-End Development using JavaScript, React, and Tailwind CSS.
 
@@ -17,7 +17,7 @@ I enjoy making small projects to improve my logic, problem-solving, and workflow
 
 ---
 
-### 🛠️ Tech Stack
+🛠️ Tech Stack
 
 **Languages & Tools:**  
 <p>
@@ -26,7 +26,7 @@ I enjoy making small projects to improve my logic, problem-solving, and workflow
 
 ---
 
-### 📌 Pinned Projects
+📌 Pinned Projects
 
 - **Admin Dashboard**: Dashboard admin sederhana untuk e-commerce  
 - **Fake E-Commerce**: Mini e-commerce built with NextJS & Tailwind  
@@ -37,7 +37,7 @@ I enjoy making small projects to improve my logic, problem-solving, and workflow
 
 ---
 
-### 🎯 What I'm Learning Right Now
+🎯 What I'm Learning Right Now
 - React hooks & component patterns  
 - Clean code & better folder structure  
 - Improving problem-solving and algorithm basics  
@@ -45,7 +45,7 @@ I enjoy making small projects to improve my logic, problem-solving, and workflow
 
 ---
 
-### 🌐 Find Me
+🌐 Find Me
 <p>
   
   <a href="https://github.com/sauzanfaza">  <img src="https://skillicons.dev/icons?i=github" />
@@ -57,5 +57,5 @@ I enjoy making small projects to improve my logic, problem-solving, and workflow
 
 ---
 
-### ✨ Fun Fact
-I write code with iced coffee on the side, and somehow it makes everything debug-able 😁
+✨ Fun Fact
+I write code with iced coffee on the side, and somehow it makes everything debug-able ☕
