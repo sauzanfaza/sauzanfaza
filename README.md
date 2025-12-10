@@ -9,7 +9,7 @@
 
 ---
 
-### 🌼 About Me
+### 👩‍💻 About Me
 I'm an Information Systems student who loves building clean and interactive user interfaces.  
 Currently learning and working on Front-End Development using JavaScript, React, and Tailwind CSS.
 
@@ -52,14 +52,6 @@ I enjoy making small projects to improve my logic, problem-solving, and workflow
 </a> ·
   <a href="https://instagram.com/sauzanfaza">  <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sauzanfaza&show_icons=true&theme=calm" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauzanfaza&theme=calm" height="160" />
 </p>
 
 ---
