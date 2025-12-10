@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Sauzan Faza 👋</h1>
+<p align="center">
+  Information Systems Student · Web Development Enthusiast
+</p>
 
-<!--
-**sauzanfaza/sauzanfaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sauzanfaza&style=flat-square&color=gray" alt="Profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌼 About Me
+I'm an Information Systems student who loves building clean and interactive user interfaces.  
+Currently learning and working on Front-End Development using JavaScript, React, and Tailwind CSS.
+
+I enjoy making small projects to improve my logic, problem-solving, and workflow.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Tools:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,git,github,vscode" />
+</p>
+
+---
+
+### 📌 Pinned Projects
+
+- **Admin Dashboard** — Dashboard admin sederhana untuk e-commerce  
+- **Fake E-Commerce** — Mini e-commerce built with NextJS + Tailwind  
+- **Weather App** — Aplikasi cuaca dengan API  
+- **Dictionary App** — Kamus berbasis API Free Dictionary  
+- **Notes App** — CRUD simple dengan React + Tailwind  
+- **Travel Agency Landing Page** — Landing page clean dan modern
+
+---
+
+### 🎯 What I'm Learning Right Now
+- React hooks & component patterns  
+- Clean code & better folder structure  
+- Improving problem-solving and algorithm basics  
+- PHP OOP & simple backend structures  
+
+---
+
+### 🌐 Find Me
+<p>
+  <a href="https://github.com/sauzanfaza">GitHub</a> ·
+  <a href="https://instagram.com/sauzanfaza">Instagram</a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sauzanfaza&show_icons=true&theme=calm" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauzanfaza&theme=calm" height="160" />
+</p>
+
+---
+
+### ✨ Fun Fact
+I write code with iced coffee on the side — and somehow it makes everything debug-able.
