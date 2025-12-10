@@ -9,7 +9,7 @@
 
 ---
 
-#👩‍💻 About Me
+### 👩‍💻 About Me
 I'm an Information Systems student who loves building clean and interactive user interfaces.  
 Currently learning and working on Front-End Development using JavaScript, React, and Tailwind CSS.
 
@@ -57,5 +57,5 @@ I enjoy making small projects to improve my logic, problem-solving, and workflow
 
 ---
 
-✨ Fun Fact
+###✨ Fun Fact
 I write code with iced coffee on the side, and somehow it makes everything debug-able ☕
