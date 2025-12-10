@@ -28,12 +28,12 @@ I enjoy making small projects to improve my logic, problem-solving, and workflow
 
 ### 📌 Pinned Projects
 
-- **Admin Dashboard** — Dashboard admin sederhana untuk e-commerce  
-- **Fake E-Commerce** — Mini e-commerce built with NextJS + Tailwind  
-- **Weather App** — Aplikasi cuaca dengan API  
-- **Dictionary App** — Kamus berbasis API Free Dictionary  
-- **Notes App** — CRUD simple dengan React + Tailwind  
-- **Travel Agency Landing Page** — Landing page clean dan modern
+- **Admin Dashboard**: Dashboard admin sederhana untuk e-commerce  
+- **Fake E-Commerce**: Mini e-commerce built with NextJS & Tailwind  
+- **Weather App**: Aplikasi cuaca dengan API  
+- **Dictionary App**: — Kamus berbasis API Free Dictionary  
+- **Notes App**: CRUD simple dengan React & Tailwind  
+- **Travel Agency Landing Page**: Landing page clean dan modern
 
 ---
 
@@ -41,7 +41,7 @@ I enjoy making small projects to improve my logic, problem-solving, and workflow
 - React hooks & component patterns  
 - Clean code & better folder structure  
 - Improving problem-solving and algorithm basics  
-- PHP OOP & simple backend structures  
+- Building reusable UI component
 
 ---
 
@@ -52,6 +52,7 @@ I enjoy making small projects to improve my logic, problem-solving, and workflow
 </a> 
   <a href="https://instagram.com/sauzanfaza">  <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
+<a href="https://www.linkedin.com/in/sauzan-faza-366582255/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 ---
