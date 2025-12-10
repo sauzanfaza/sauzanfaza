@@ -47,8 +47,11 @@ I enjoy making small projects to improve my logic, problem-solving, and workflow
 
 ### 🌐 Find Me
 <p>
-  <a href="https://github.com/sauzanfaza">GitHub</a> ·
-  <a href="https://instagram.com/sauzanfaza">Instagram</a>
+  
+  <a href="https://github.com/sauzanfaza">  <img src="https://skillicons.dev/icons?i=github" />
+</a> ·
+  <a href="https://instagram.com/sauzanfaza">  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
 </p>
 
 ---
@@ -62,4 +65,4 @@ I enjoy making small projects to improve my logic, problem-solving, and workflow
 ---
 
 ### ✨ Fun Fact
-I write code with iced coffee on the side — and somehow it makes everything debug-able.
+I write code with iced coffee on the side, and somehow it makes everything debug-able 😁
