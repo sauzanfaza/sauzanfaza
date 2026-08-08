@@ -37,11 +37,12 @@ I enjoy making small projects to improve my logic, problem-solving, and workflow
 
 ---
 
-🎯 What I'm Learning Right Now
-- React hooks & component patterns  
-- Clean code & better folder structure  
-- Improving problem-solving and algorithm basics  
-- Building reusable UI component
+🎯 Currently Focusing On
+- Building responsive interfaces with React
+- Improving React component architecture
+- Strengthening JavaScript fundamentals
+- Problem-solving & basic DSA
+- Writing cleaner and maintainable code
 
 ---
 
